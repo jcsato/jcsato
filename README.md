@@ -1,4 +1,9 @@
-### Hi there 👋
+Battle Brothers enthusiast. I make mods for the game, for example:
+
+- [Of Flesh and Faith Plus+](https://github.com/jcsato/of_flesh_and_faith_plus) - new origins
+- [Equipment Variants](https://github.com/jcsato/sato_equipment_variants_mod) - new cosmetics
+- [Additional Equipment](https://github.com/jcsato/sato_additional_equipment_mod) - new armor and helmets
+- [Established Company](https://github.com/jcsato/sato_established_company_mod) - new random start origin
 
 <!--
 **jcsato/jcsato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
