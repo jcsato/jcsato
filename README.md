@@ -11,7 +11,11 @@ Battle Brothers enthusiast. I make mods for the game:
 - [Additional Equipment](https://github.com/jcsato/sato_additional_equipment_mod) - new armor and helmets
 
 ## Balance
-- [Retinue Mod](https://github.com/jcsato/sato_retinue_mod) - small retinue balance tweak
+- [General Balance](https://github.com/jcsato/sato_balance_mod) - various balance tweaks, mainly to weapons and skills
+- [Enemy Balance](https://github.com/jcsato/sato_enemy_balance_mod) - various balance tweaks to enemy stats and abilities
+
+## Miscellaneous
+- [Expanded Markets](https://github.com/jcsato/sato_expanded_markets_mod) - adds additional categories of items for sale in settlements
 
 ---
 
