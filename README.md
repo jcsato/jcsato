@@ -13,6 +13,12 @@ Battle Brothers enthusiast. I make mods for the game:
 ## Balance
 - [Retinue Mod](https://github.com/jcsato/sato_retinue_mod) - small retinue balance tweak
 
+---
+
+I occasionally do things besides just mods, too:
+
+- [New Player FAQ](https://steamcommunity.com/sharedfiles/filedetails/?id=2549815780) - a FAQ offering non-prescriptive explanations and tips, geared towards new players
+
 <!--
 **jcsato/jcsato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
