@@ -16,6 +16,7 @@ Battle Brothers enthusiast. I make mods for the game:
 
 ## Miscellaneous
 - [Expanded Markets](https://github.com/jcsato/sato_expanded_markets_mod) - adds additional categories of items for sale in settlements
+- [Patches](https://github.com/jcsato/bbros_mod_patches) - compatibility and integration patches for various mods
 
 ---
 
