@@ -5,6 +5,7 @@ Battle Brothers enthusiast. I make mods for the game:
 - [Escaped Slaves](https://github.com/jcsato/sato_escaped_slaves_mod) - escaped slaves on the run from a city state
 - [Men at Arms](https://github.com/jcsato/sato_men_at_arms_mod) - professional warriors looking to rebuild
 - [Established Company](https://github.com/jcsato/sato_established_company_mod) - randomized start
+- [Rebalanced Vanilla Origins](https://github.com/jcsato/sato_rebalanced_vanilla_origins) - mechanical changes to some official origins
 
 ## Equipment
 - [Equipment Variants](https://github.com/jcsato/sato_equipment_variants_mod) - new cosmetics
