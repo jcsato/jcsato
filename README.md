@@ -6,6 +6,7 @@ Battle Brothers enthusiast. I make mods for the game:
 - [Men at Arms](https://github.com/jcsato/sato_men_at_arms_mod) - professional warriors looking to rebuild
 - [Established Company](https://github.com/jcsato/sato_established_company_mod) - randomized start
 - [Rebalanced Vanilla Origins](https://github.com/jcsato/sato_rebalanced_vanilla_origins) - mechanical changes to some official origins
+- [Witchhunter Community Origin](https://github.com/jcsato/witchhunter_community_origin) - witchhunter origin based on The Witch Hunter novel
 
 ## Equipment
 - [Equipment Variants](https://github.com/jcsato/sato_equipment_variants_mod) - new cosmetics
@@ -16,6 +17,7 @@ Battle Brothers enthusiast. I make mods for the game:
 - [Enemy Balance](https://github.com/jcsato/sato_enemy_balance_mod) - various balance tweaks to enemy stats and abilities
 
 ## Miscellaneous
+- [Company Details Screen](https://github.com/jcsato/company_details_screen) - adds a screen to show company details and completed ambitions
 - [Expanded Markets](https://github.com/jcsato/sato_expanded_markets_mod) - adds additional categories of items for sale in settlements
 - [Tutorial Remover](https://github.com/jcsato/tutorial_remover) - removes tutorial elements that aren't relevant to experienced players
 - [Patches](https://github.com/jcsato/bbros_mod_patches) - compatibility and integration patches for various mods
