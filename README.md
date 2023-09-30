@@ -18,6 +18,7 @@ Battle Brothers enthusiast. I make mods for the game:
 
 ## Miscellaneous
 - [Company Details Screen](https://github.com/jcsato/company_details_screen) - adds a screen to show company details and completed ambitions
+- [Partially Explored Map](https://github.com/jcsato/partially_explored_map) - new exploration difficulty option for campaign starts
 - [Expanded Markets](https://github.com/jcsato/sato_expanded_markets_mod) - adds additional categories of items for sale in settlements
 - [Tutorial Remover](https://github.com/jcsato/tutorial_remover) - removes tutorial elements that aren't relevant to experienced players
 - [Patches](https://github.com/jcsato/bbros_mod_patches) - compatibility and integration patches for various mods
