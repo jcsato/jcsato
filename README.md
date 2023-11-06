@@ -15,6 +15,7 @@ Battle Brothers enthusiast. I make mods for the game:
 ## Balance
 - [General Balance](https://github.com/jcsato/sato_balance_mod) - various balance tweaks, mainly to weapons and skills
 - [Enemy Balance](https://github.com/jcsato/sato_enemy_balance_mod) - various balance tweaks to enemy stats and abilities
+- [Corpse Loot Fix](https://github.com/jcsato/sato_corpse_loot_fix) - fix inconsistencies in battlefield loot drops
 
 ## Miscellaneous
 - [Company Details Screen](https://github.com/jcsato/company_details_screen) - adds a screen to show company details and completed ambitions
