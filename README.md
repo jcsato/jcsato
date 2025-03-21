@@ -15,14 +15,18 @@ Battle Brothers enthusiast. I make mods for the game:
 ## Balance
 - [General Balance](https://github.com/jcsato/sato_balance_mod) - various balance tweaks, mainly to weapons and skills
 - [Enemy Balance](https://github.com/jcsato/sato_enemy_balance_mod) - various balance tweaks to enemy stats and abilities
-- [Corpse Loot Fix](https://github.com/jcsato/sato_corpse_loot_fix) - fix inconsistencies in battlefield loot drops
 
 ## Miscellaneous
 - [Company Details Screen](https://github.com/jcsato/company_details_screen) - adds a screen to show company details and completed ambitions
 - [Partially Explored Map](https://github.com/jcsato/partially_explored_map) - new exploration difficulty option for campaign starts
+- [Faction Customization](https://github.com/jcsato/faction_customization) - adds a screen to customize the names and banners of noble house factions in-game
+- [Quicker](https://github.com/jcsato/quicker) - adds the ability to speed up the game on the world map and tactical layer
 - [Expanded Markets](https://github.com/jcsato/sato_expanded_markets_mod) - adds additional categories of items for sale in settlements
 - [Tutorial Remover](https://github.com/jcsato/tutorial_remover) - removes tutorial elements that aren't relevant to experienced players
 - [Patches](https://github.com/jcsato/bbros_mod_patches) - compatibility and integration patches for various mods
+
+## Defunct
+- [Corpse Loot Fix](https://github.com/jcsato/sato_corpse_loot_fix) - fix inconsistencies in battlefield loot drops. Not needed as of game version 1.5.1.x
 
 ---
 
