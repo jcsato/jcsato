@@ -1,7 +1,10 @@
 Battle Brothers enthusiast. I make mods for the game:
 
+## Content Expansions:
+- [Of Flesh and Faith+](https://github.com/jcsato/of_flesh_and_faith_plus) - new origins, reworked Oathtaker origin, new events
+- [Blazing Deserts+](https://github.com/jcsato/blazing_deserts_plus) - arena rework, new hireable backgrounds, new AI units
+
 ## Company Origins:
-- [Of Flesh and Faith+](https://github.com/jcsato/of_flesh_and_faith_plus) - plague-sticken explorers, southern assassins, and a barbarian death cult
 - [Escaped Slaves](https://github.com/jcsato/sato_escaped_slaves_mod) - escaped slaves on the run from a city state
 - [Men at Arms](https://github.com/jcsato/sato_men_at_arms_mod) - professional warriors looking to rebuild
 - [Established Company](https://github.com/jcsato/sato_established_company_mod) - randomized start
