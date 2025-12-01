@@ -18,6 +18,7 @@ Battle Brothers enthusiast. I make mods for the game:
 ## Balance
 - [General Balance](https://github.com/jcsato/sato_balance_mod) - various balance tweaks, mainly to weapons and skills
 - [Enemy Balance](https://github.com/jcsato/sato_enemy_balance_mod) - various balance tweaks to enemy stats and abilities
+- [Combat Effects](https://github.com/jcsato/sato_combat_effects) - additional effects to round out combat balance
 
 ## Patches
 - [Bugfix](https://github.com/jcsato/sato_bugfix) - zero-dependency bugfixes for the base game
